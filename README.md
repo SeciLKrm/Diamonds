@@ -6,4 +6,8 @@
 
 <p> Generally FLEX structure was used. </p>
 
+<p>Home page is responsive structure.</p>
+
+<p>Created  gallery with animation.</p>
+
 ![](screen.gif)
