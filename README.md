@@ -1,4 +1,4 @@
-# Diamonds
+<h1>DIAMONDS WEBSITE </h1>
 
 <p> Created with transition pages; home,diamonds,about.</p>
 
